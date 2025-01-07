@@ -13,12 +13,12 @@ I am passionate about leveraging AI to push the boundaries of innovation and con
 ## 🛠 Skills  
 
 ### Programming and Libraries  
-- **Languages**: Python, SQL  
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, XGBoost, Plotly  
+- **Languages**: C, R, Python, SQL  
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, XGBoost, Plotly, Sreamlit, Tensorflow, Pytorch
 
 ### Data Science  
 - **Data Analysis**: Data Wrangling, Feature Engineering, EDA, Data Visualization  
-- **Machine Learning**: Regression, Classification, Clustering, Hyperparameter Tuning, Model Deployment  
+- **Machine Learning**: Regression, Classification, Clustering, Hyperparameter Tuning, Model Evaluation, Model Deployment  
 - **Generative AI**: GPT, BERT, LLaMA, Gemma, Pretraining, Fine-tuning, Prompt Engineering  
 
 ### Deep Learning  
