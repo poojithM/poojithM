@@ -48,11 +48,5 @@ I am passionate about leveraging AI to push the boundaries of innovation and con
 
 ---
 
-## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=poojith&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poojith&layout=compact&theme=radical)  
-
----
-
 ### ✨ Fun Fact  
 I enjoy exploring emerging technologies and finding creative ways to apply AI to real-world challenges. When I’m not coding, you can find me reading self-help books or experimenting with new machine learning techniques!
