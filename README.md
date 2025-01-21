@@ -10,20 +10,13 @@ I am passionate about leveraging AI to push the boundaries of innovation and con
 
 ---
 
-## 🛠 Skills  
+## 🚀 Professional Experience
 
-### Programming and Libraries  
-- **Languages**: C, R, Python, SQL  
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, XGBoost, Plotly, Sreamlit, Tensorflow, Pytorch
-
-### Data Science  
-- **Data Analysis**: Data Wrangling, Feature Engineering, EDA, Data Visualization  
-- **Machine Learning**: Regression, Classification, Clustering, Hyperparameter Tuning, Model Evaluation, Model Deployment  
-- **Generative AI**: GPT, BERT, LLaMA, Gemma, Pretraining, Fine-tuning, Prompt Engineering  
-
-### Deep Learning  
-- **Natural Language Processing (NLP)**: Text Classification, Summarization, Language Modeling  
-- **Image Classification**: CNNs, Automatic Feature Extraction, Deep Learning Modeling  
+### **Intern at Technex, IIT (BHU)**
+- Explored tools and techniques to derive insights from datasets and predict future outcomes.
+- Worked on a **Credit Card Eligibility Prediction** project using financial and behavioral data.
+- Enhanced skills in predictive modeling and decision-making in financial services.
+- Gained valuable exposure to real-world applications of data science.
 
 ---
 
@@ -40,6 +33,28 @@ I am passionate about leveraging AI to push the boundaries of innovation and con
 
 - **[Text Summarization](#)**  
   Fine-tuning transformer-based models to generate concise and human-like summaries for efficient text analysis.  
+
+---
+
+## 🛠️ Skills
+### **Python Libraries**
+- Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Scipy, Plotly, XGBoost.
+
+### **Data Analysis**
+- Data Wrangling, Feature Extraction, Feature Engineering, Exploratory Data Analysis (EDA), Data Visualization.
+
+### **Machine Learning**
+- Regression, Classification, Clustering, Model Selection, Evaluation, Hyperparameter Tuning, Deployment, Monitoring, and Maintenance.
+
+### **Text Classification**
+- Data Collection, Text Preprocessing, Syntactic and Semantic Analysis, Language Modeling, Model Building, RNNs.
+
+### **Image Classification**
+- Data Preprocessing, Automatic Feature Extraction, Deep Learning Modeling, Model Evaluation, CNNs.
+
+### **Generative AI (GenAI)**
+- GPT, BERT, LLaMA, Gemma, Pretraining, Fine-Tuning, Prompt Engineering, Transfer Learning.
+
 
 ---
 
