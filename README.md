@@ -18,16 +18,16 @@ Today, my projects span building **instruction-tuned chatbots**, **multilingual 
 
 ##  What I Do Best
 
-- 🔹 **GenAI and Large Language Models**: Fine-tuning, instruction-tuning, and deploying LLMs like GPT, LLaMA, Gemini and Open source models.
-- 🔹 **Agentic AI Systems**: Building autonomous multi-agent frameworks using CrewAI, Autogen, Langgraph and smol agents.
-- 🔹 **Text Classification & NLP**: Specialized in text preprocessing, syntactic and semantic analysis, building language models, and developing sequence models like RNNs.
-- 🔹 **Machine Learning Expertise**: Skilled in supervised and unsupervised learning, evaluation techniques, hyperparameter tuning, deployment strategies, and MLOps.
-- 🔹 **Cloud Deployments**: Deploying AI solutions on AWS, Azure, and Hugging Face Spaces.
-- 🔹 **Vector Search & Retrieval**: Using FAISS, Chroma, LangChain for efficient retrieval-augmented generation.
+-  **GenAI and Large Language Models**: Fine-tuning, instruction-tuning, and deploying LLMs like GPT, LLaMA, Gemini and Open source models.
+-  **Agentic AI Systems**: Building autonomous multi-agent frameworks using CrewAI, Autogen, Langgraph and smol agents.
+-  **Text Classification & NLP**: Specialized in text preprocessing, syntactic and semantic analysis, building language models, and developing sequence models like RNNs.
+-  **Machine Learning Expertise**: Skilled in supervised and unsupervised learning, evaluation techniques, hyperparameter tuning, deployment strategies, and MLOps.
+-  **Cloud Deployments**: Deploying AI solutions on AWS, Azure, and Hugging Face Spaces.
+-  **Vector Search & Retrieval**: Using FAISS, Chroma, LangChain for efficient retrieval-augmented generation.
 
 ---
 
-## 🛠 My Favorite Tools & Technologies
+##  My Favorite Tools & Technologies
 
 - **Programming Languages**: Python, R, Java, C++, C
 - **AI/ML Frameworks**: Hugging Face, CrewAI, AutoGen, LangChain, LlamaIndex
@@ -64,11 +64,11 @@ Today, my projects span building **instruction-tuned chatbots**, **multilingual 
 
 - **Master of Science in Data Science**  
   Michigan Technological University, Houghton, Michigan  
-  _Aug 2023 – Aug 2025 | GPA: 3.62_
+  Aug 2023 – Aug 2025 | GPA: 3.62
 
 ---
 
-## 💬 Let's Connect!
+##  Let's Connect!
 
 I'm always open to collaborating on GenAI projects, agentic system innovations, or just geeking out over the latest in AI tech.
 
