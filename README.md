@@ -1,67 +1,71 @@
-# Hi, I'm Poojith 👋  
-**Passionate Data Science Master's Student | AI Enthusiast | Generative AI Explorer**
+# Hey there! 👋 I'm Poojith M
+
+# 🚀 Welcome to My World of GenAI, Agentic Systems, and Deep Learning!
+
+If you've found your way here, you're probably passionate about Generative AI, intelligent autonomous systems, and next-gen deep learning innovations — just like me! 🚀
 
 ---
 
-## 🚀 About Me  
-I am a Data Science Master's student with a strong focus on **Generative AI**, **Large Language Models (LLMs)**, **Transfer Learning**, and **Neural Networks**. My expertise spans designing and deploying machine learning models for diverse real-world applications. I enjoy working with advanced AI techniques to solve challenging problems, especially in natural language processing and predictive modeling.
+## 🧠 My Journey into GenAI, Agentic Systems, and Deep Learning
 
-I am passionate about leveraging AI to push the boundaries of innovation and contribute to impactful solutions in data science and artificial intelligence.
+My journey into the world of AI began with a strong curiosity for **Generative AI**, **Deep Learning models**, and **Agentic frameworks** that could automate intelligent behavior. Instead of just learning traditional machine learning, I focused on understanding how large-scale models like GPTs and LLaMAs could be fine-tuned and deployed to solve real-world problems.
 
----
+Over time, I specialized in designing **multi-agent AI systems** using frameworks like CrewAI and AutoGen, and worked extensively on **fine-tuning LLMs** using efficient techniques like QLoRA. My work involves combining the power of generative models with structured agentic workflows to build autonomous, reliable, and scalable AI applications.
 
-## 🚀 Professional Experience
-
-### **Intern at Technex, IIT (BHU)**
-- Explored tools and techniques to derive insights from datasets and predict future outcomes.
-- Worked on a **Credit Card Eligibility Prediction** project using financial and behavioral data.
-- Enhanced skills in predictive modeling and decision-making in financial services.
-- Gained valuable exposure to real-world applications of data science.
+Today, my projects span building **instruction-tuned chatbots**, **multimodal document interpreters**, and **GenAI-powered feedback analyzers**, all backed by a deep understanding of modern AI architectures, cloud deployments, and vector-based retrieval systems.
 
 ---
 
-## 🔭 Current Projects  
+## 🚀 What I Do Best
 
-- **[Retrieval Augmented Generation](#)**  
-  Leveraging the Gemma 2B model and FAISS to store and retrieve vector embeddings, integrating advanced NLP for question-answering systems.  
-
-- **[Next Word Prediction](#)**  
-  Developing LSTM-based models to predict the next word in a sentence, capturing long-term dependencies effectively.  
-
-- **[Language Translation](#)**  
-  Implementing LLaMA with Langchain for dynamic and user-friendly language translation systems.  
-
-- **[Text Summarization](#)**  
-  Fine-tuning transformer-based models to generate concise and human-like summaries for efficient text analysis.  
+- 🔹 **GenAI and Large Language Models**: Fine-tuning, instruction-tuning, and deploying LLMs like GPT, LLaMA, Phi-3.
+- 🔹 **Agentic AI Systems**: Building autonomous multi-agent frameworks using CrewAI, AutoGen.
+- 🔹 **Deep Learning Projects**: Developing AI tools that transcribe, translate, and intelligently analyze multimodal content.
+- 🔹 **Cloud Deployments**: Deploying AI solutions on AWS, Azure, and Hugging Face Spaces.
+- 🔹 **Vector Search & Retrieval**: Using FAISS, Chroma, LangChain for efficient retrieval-augmented generation.
 
 ---
 
-## 🛠️ Skills
-### **Python Libraries**
-- Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Scipy, Plotly, XGBoost.
+## 🛠 My Favorite Tools & Technologies
 
-### **Data Analysis**
-- Data Wrangling, Feature Extraction, Feature Engineering, Exploratory Data Analysis (EDA), Data Visualization.
-
-### **Machine Learning**
-- Regression, Classification, Clustering, Model Selection, Evaluation, Hyperparameter Tuning, Deployment, Monitoring, and Maintenance.
-
-### **Text Classification**
-- Data Collection, Text Preprocessing, Syntactic and Semantic Analysis, Language Modeling, Model Building, RNNs.
-
-### **Image Classification**
-- Data Preprocessing, Automatic Feature Extraction, Deep Learning Modeling, Model Evaluation, CNNs.
-
-### **Generative AI (GenAI)**
-- GPT, BERT, LLaMA, Gemma, Pretraining, Fine-Tuning, Prompt Engineering, Transfer Learning.
-
+- **Programming Languages**: Python, R, Java, C++, C
+- **AI/ML Frameworks**: Hugging Face, CrewAI, AutoGen, LangChain, LlamaIndex
+- **Cloud Platforms**: AWS, Azure, Google Cloud
+- **Databases**: SQL, SQLite3, FAISS, Chroma, AWS S3
+- **Specializations**: GenAI, LLMOps, Fine-Tuning, Prompt Engineering, Agent-Based Systems
 
 ---
 
-## 📫 Connect With Me  
-- [LinkedIn](https://www.linkedin.com/in/poojith-m-a28039229)  
+## 🏆 Projects & Highlights
+
+- ✊ **Customer Service Audio Analyzer**: Built a multi-agent system to transcribe and analyze customer feedback, improving service operations.
+- 💬 **Instruction-Based Fine-Tuning**: Fine-tuned Phi-3 model for curriculum-based Q&A assistance for MTU students.
+- 🎥 **AudioScribe AI**: Created an end-to-end pipeline to transcribe YouTube audio, embed it into vector DBs, and generate contextual answers.
+- 🌍 **Multilingual PDF Interpreter**: Designed a multilingual PDF translation and summarization tool for global communication enhancement.
+- 🏅 **Certifications**:
+  - AWS AI Practitioner (March 2025)
+  - AWS Certified Machine Learning - Specialty (March 2025)
+  - Generative AI with LangChain and Hugging Face (Feb 2025)
 
 ---
 
-### ✨ Fun Fact  
-I enjoy exploring emerging technologies and finding creative ways to apply AI to real-world challenges. When I’m not coding, you can find me reading self-help books or experimenting with new machine learning techniques!
+## 📚 Education
+
+- **Master of Science in Data Science**  
+  Michigan Technological University, Houghton, Michigan  
+  _Aug 2023 – Aug 2025 | GPA: 3.62_
+
+---
+
+## 💬 Let's Connect!
+
+I'm always open to collaborating on GenAI projects, agentic system innovations, or just geeking out over the latest in AI tech.
+
+- 📍 **LinkedIn**: [www.linkedin.com/in/poojithm]
+- 📧 **Email**: mpoojith015@gmail.com
+- 💻 **Portfolio**: [https://pages.mtu.edu/~pmendem/]
+- 🔗 **GitHub**: [https://github.com/poojithM/poojithM]
+
+---
+
+# 🚀 Let's build the future of AI together!
