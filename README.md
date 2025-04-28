@@ -72,10 +72,10 @@ Today, my projects span building **instruction-tuned chatbots**, **multilingual 
 
 I'm always open to collaborating on GenAI projects, agentic system innovations, or just geeking out over the latest in AI tech.
 
--  **LinkedIn**: [www.linkedin.com/in/poojithm]
+-  **LinkedIn**: www.linkedin.com/in/poojithm
 -  **Email**: mpoojith015@gmail.com
--  **Portfolio**: [https://pages.mtu.edu/~pmendem/]
--  **GitHub**: [https://github.com/poojithM/poojithM]
+-  **Portfolio**: https://pages.mtu.edu/~pmendem/
+-  **GitHub**: https://github.com/poojithM/poojithM
 
 ---
 
