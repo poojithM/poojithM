@@ -2,7 +2,7 @@
 
 #  Welcome to My World of GenAI
 
-If you've found your way here, you're probably passionate about Generative AI, intelligent autonomous systems, and next-gen deep learning innovations — just like me! 🚀
+If you've found your way here, you're probably passionate about Generative AI, intelligent autonomous systems, and next-gen deep learning innovations just like me! 🚀
 
 ---
 
